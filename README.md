@@ -1,4 +1,4 @@
-#🚢 Titanic Dataset Analysis & Visualization
+# 🚢 Titanic Dataset Analysis & Visualization
 
 Proyek ini merupakan analisis sederhana terhadap dataset Titanic yang bertujuan untuk memahami karakteristik penumpang berdasarkan atribut seperti umur, jenis kelamin, dan status keselamatan.
 
@@ -6,6 +6,6 @@ Project ini dibuat sebagai bagian dari pemenuhan tugas akhir **Mini Bootcamp Dig
 
 ---
 
-##📊 Tools & Libraries
+## 📊 Tools & Libraries
 - Pycharm (pandas, matplotlib)
 - PowerPoint (untuk presentasi)
